@@ -1,0 +1,1 @@
+print(len("hQOPSDJOIazjdoizaJDOIPÄZIJDOAJioq^s"))
